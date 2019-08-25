@@ -1,6 +1,6 @@
 <img src="https://i.loli.net/2019/02/27/5c760f8570e8e.png">
 
-## Mohist Made in China
+## Mohist 2.0 Made in China
 
 [![](https://ci.codemc.org/buildStatus/icon?job=PFCraft%2FMohist)](https://ci.codemc.org/job/PFCraft/job/Mohist/)
 ![](https://img.shields.io/github/stars/PFCraft/Mohist.svg?label=Stars)
